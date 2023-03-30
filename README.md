@@ -44,4 +44,4 @@ Overall, RBAC is a powerful security model that can help organizations improve s
          <h2>RBAC Model </h2>
          <p>managing access starts with you have some capabilities that are in some shape or form access controlled you have to control who has access
    to those capabilities how do you do that, it all starts with those capabilities</p>
-   <img src="" />
+   <img src="assets/cap-model" />
