@@ -44,4 +44,13 @@ Overall, RBAC is a powerful security model that can help organizations improve s
          <h2>RBAC Model </h2>
          <p>managing access starts with you have some capabilities that are in some shape or form access controlled you have to control who has access
    to those capabilities how do you do that, it all starts with those capabilities</p>
-   <img src="assets/cap-model" />
+   <img src="assets/cap-model.png" /><p>next level,
+             Permission</P>
+             <p>one example of capability could be to say you have a database that has order data for customers and you don't want everybody
+    to access orders beacause maybe this is something that is considered private information so not everybody should look into the
+    orders of customers.so you have a permission that says this is a permission that somebody needs inorder to access that
+   capability of order data so now you have something in place how you can control access to this capability by this capability requiring 
+   that permission to be presented </p>
+   <em>what's special about role based access control</em><p>is now that this permission is granted to a role meaning that
+    there's a certain role that then has this permission which gives access to the capability so such a role like a customer representative
+    is supposed to help customer so they probably need to look into open orders of customer and therefore this role of a customer representative then gets this permission of accessing order information</p>
