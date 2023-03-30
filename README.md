@@ -66,3 +66,9 @@ Overall, RBAC is a powerful security model that can help organizations improve s
       <p>It's important to note that each permission can have an impact on multiple capabilities. For example, a permission to access order data may not only give access to the system that manages current orders, but also to other systems that contain historical or tracking data about orders. As a result, such a permission can impact several capabilities. If a user is granted this permission for their role, they would have access to all relevant information about orders across multiple systems.</p>
       <img src="assets/capability-rel.png" />
       <p>In summary, RBAC provides enterprise-level access control that is highly scalable due to the ability for multiple individuals to assume multiple roles, or for multiple individuals to assume the same role. Managing roles, permissions, and capabilities can be complex in large organizations, so careful consideration is necessary. Despite its popularity, RBAC is not the only method for access management, and other alternatives such as traditional access control lists or attribute-based access control may be better suited for certain organizations.</p>
+      <h2>How does the use of Role-Based Access Control (RBAC) benefit both developers and clients, and why is it important to consider its implementation from both perspectives?</h2>
+      <h3><em>How does the use of Role-Based Access Control (RBAC) benefit both developers and clients, and why is it important to consider its implementation from both perspectives?</em></h3>
+      <p>RBAC is beneficial for both developers and clients in several ways:</p>
+      <p><i>
+
+From a developer's point of view:</i></p>
