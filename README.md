@@ -51,10 +51,10 @@ Overall, RBAC is a powerful security model that can help organizations improve s
     orders of customers.so you have a permission that says this is a permission that somebody needs inorder to access that
    capability of order data so now you have something in place how you can control access to this capability by this capability requiring 
    that permission to be presented </p>
-   <img src="" />
+   <img src="assets/per-model.png" />
    <em>what's special about role based access control</em><p>is now that this permission is granted to a role meaning that
     there's a certain role that then has this permission which gives access to the capability so such a role like a customer representative
     is supposed to help customer so they probably need to look into open orders of customer and therefore this role of a customer representative then gets this permission of accessing order information</p>
-      <img src="" />
+      <img src="assets/role-model.png" />
     <p>The final stage in implementing RBAC is to assign roles to actual users, and this is where the scalability of RBAC in large enterprises becomes apparent. Rather than individually granting permissions to each user, permissions are assigned to roles, which are then assigned to multiple users with the same role. When a user no longer needs access, their role is simply removed, instead of having to revoke access for each individual capability. This makes RBAC a highly efficient and scalable solution for access control in large organizations.</p>
-      <img src="" />
+      <img src="assets/user-model.png" />
