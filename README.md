@@ -60,3 +60,4 @@ Overall, RBAC is a powerful security model that can help organizations improve s
       <img src="assets/user-model.png" />
       <h2>RBAC Relationship</h2>
       <p>To ensure an RBAC model works effectively, it is important to consider the relationships it supports in more detail. Users within an organization may have multiple roles and responsibilities, and the RBAC model should be able to accommodate this by allowing users to have one or more roles. This makes it easy to remove a specific role from a user while they continue to play other roles, thus promoting scalability. Similarly, the relationship between roles and permissions is also important, with a role often implying multiple permissions. The RBAC model should be able to handle these relationships effectively.</p>
+      <img src="assets/rel-role.png" />
