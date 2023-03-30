@@ -1,8 +1,10 @@
 <h1>Role Based Access Control(RBAC) 😎</h1>
 <hr>
 <h2>what is RBAC?</h2>
-<p>Role-based access control (RBAC) is a security model that defines access control based on the roles of individual users within an organization. In RBAC, access to system resources is granted based on a user's role or job function, rather than on a user-by-user basis.
 
+<p>Role-based access control (RBAC) is a security model that defines access control based on the roles of individual users within an organization. In RBAC, access to system resources is granted based on a user's role or job function, rather than on a user-by-user basis.</p>
+<img src="assets/R.jpeg" />
+<p>
 In an RBAC system, users are assigned to one or more roles, and each role is associated with a set of permissions that define the actions that can be performed on specific resources. For example, a system administrator role might have permission to create, modify, or delete user accounts, while a regular user role might only have permission to view and edit their own profile.
 
 RBAC enables organizations to manage access control policies more efficiently and effectively. By granting access based on roles, RBAC simplifies the process of managing permissions and reduces the risk of errors and inconsistencies. RBAC can also help organizations comply with regulatory requirements, as it provides a clear audit trail of who has access to sensitive data and systems.
